@@ -1,1 +1,1 @@
-#Code Clause Internship ALARM-CLOCK
+#CodeClauseInternshipALARM-CLOCK
